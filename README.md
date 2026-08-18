@@ -12,7 +12,9 @@ Następnie, poleceniem `sudo airmon-ng start wlan0`, uruchomiłem monitor mode w
 W trakcie trwania ataku uruchomiłem program Wireshark, aby przeanalizować przechwycony ruch. W pasku filtru zastosowałem odpowiednie kryteria wyizolowania ramek deautentykacji. Kluczowym wskaźnikiem potwierdzającym sztuczne wygenerowanie ruchu były numery sekwencyjne SN=0 i SN=1, (w przeciwieństwie do ciągłego, naturalnego narastania licznika lub losowych przeskoków czasowych występujących w ruchu organicznym prawdziwego routera).
 
 > ![4z](4z.png)
+
 > ![5z](5z.png)
+
 > ![6z](6z.png)
 
 
