@@ -1,5 +1,7 @@
 # Atak i analiza deautentykacji Wi-Fi
 
+**Cel projektu:** Symulacja ataku deautentykacji na sieć Wi-Fi oraz szczegółowa analiza przechwyconego ruchu sieciowego. 
+
 Na początku sprawdziłem dostępne interfejsy sieciowe, w tym interfejs zewnętrznej karty sieciowej. Przed przełączeniem karty w monitor mode (tryb nasłuchiwania) zamknąłem działające w tle procesy, które mogłyby zakłócić precyzyjne skanowanie sieci.
 
 > ![1z](1z.png)
